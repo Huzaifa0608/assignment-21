@@ -1,0 +1,48 @@
+.bd-color{
+    background-color: lightgray;
+    display: flex;
+    
+    }
+    .main{
+        margin: auto;
+    }
+    .calculator{
+    
+        width: 310px;
+        box-shadow: 0px 0px 20px gray;
+        background-color: rgb(255, 255, 255);
+        border-top: 5px solid black ;
+    }
+    .custonbtn{
+        box-shadow: 0px 0px 5px black;
+        text-align: justify;
+    border: none;
+    background-color:grey;
+    color: white;
+    padding:10px 20px;
+    margin: 5px;
+    font-size: 20px;
+    }
+    .fs-1{
+        font-size: 14px;
+    }
+    .dipl{
+        border: none;
+    font-size: 32px;
+        /* padding:10px 55px; */
+        margin: 20px;
+     text-align: right;
+        width: 270px;
+        background-color: lightgrey;
+        color: black;
+    }
+    .button{
+        margin: 30px 0px 30px 0px;
+        text-align: center;
+    }
+    .display{
+        text-align: center;
+    }
+    .hr-1{
+        box-shadow: 0px 0px 5px grey; 
+    }
